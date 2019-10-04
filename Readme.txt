@@ -14,4 +14,5 @@ Implementing Router - React Router Dom
     		<BrowserRouter>
         		<App />
     		</BrowserRouter>, document.getElementById('root'));
-                                                                                                                                                                                                                                          
+                                                                                                                                                                                3. To add redux
+	yarn add redux redux-logger react-redux                                                          
